@@ -4,7 +4,7 @@
   <head>
     
   
-      <title>Home - Flask Super Example</title>
+      <title>Home Affluent Bilby Classifieds</title>
     
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">Jinja!</a>
+         <!-- <a class="navbar-brand" href="/">Jinja!</a> -->
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -72,40 +72,16 @@
     <div class="container">
       
   
-        <h1>Home - Flask Super Example</h1>
+        <h1>Home - Affluent Bilby Classifieds</h1>
       
 
-      <h2>This is part of my base template</h2>
+      <img src="abc.jpg" align=centre>
       <br>
       
-  <h3> This is the start of my child template</h3>
-  <br>
-  <h4>Current date/time: 2020/01/30 20:21</h4>
-  <br>
-  <p>My string: Foo</p>
-  <p>Value from the list: 9</p>
-  <p>Loop through the list:</p>
-  <ul>
-    
-    <li>6</li>
-    
-    <li>7</li>
-    
-    <li>8</li>
-    
-    <li>9</li>
-    
-    <li>10</li>
-    
-    <li>11</li>
-    
-  </ul>
-  <br>
-  <p>Same list with a filter: 6, 7, 8, 9, 10, 11</p>
-  <h3> This is the end of my child template</h3>
+  Welcome to Affluent Bilby Classifieds. We are an open-source business looking to become a non-for-profit foundation.
   
   
-          Watch! This will be added to my base and child templates using the super powerful super block!
+          Copyright Affluent Bilby Classifieds 2020. 
           <br>
           <br>
           <br>
@@ -113,12 +89,12 @@
   
 
       <br>
-      <h2>This is part of my base template</h2>
+      
       <br>
       <div class="footer">
         
   
-          Watch! This will be added to my base and child templates using the super powerful super block!
+          Copyright Affluent Bilby Classifieds 2020. 
           <br>
           <br>
           <br>
